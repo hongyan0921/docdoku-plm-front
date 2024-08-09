@@ -1,0 +1,17 @@
+/*global define*/
+define({
+	ADD_USER:'添加用户',
+	CREATE_ORGANIZATION_SIDE_TEXT:'只有组织的创建者具有管理员权限。这些权限允许编辑组织属性并添加和删除用户',
+	CREATE_ORGANIZATION_SUBTITLE:'建立组织。',
+	CREATE_SUBSCRIPTION:'创建订阅',
+	DELETE_ORGANIZATION_TEXT:'此项无法撤消,否则其所有数据都将被删除',
+	DELETE_ORGANIZATION_QUESTION:'您确定要删除此组织吗？',
+	EDIT_ORGANIZATION_SUBTITLE:'编辑您的组织',
+	MEMBER_MOVE_SUCCESS:'成员迁移成功',
+	MEMBERS:'成员',
+	NO_ORGANIZATION_EXISTS:'您的帐户没有创建任何组织。',
+	ORGANIZATION_ADMINISTRATION:'组织管理',
+	ORGANIZATION_CREATED:'组织创建成功',
+	ORGANIZATION_DELETING_TITLE:'组织删除成功',
+	ORGANIZATION_UPDATED:'组织更新成功'
+});
