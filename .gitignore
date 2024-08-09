@@ -1,0 +1,12 @@
+node_modules/
+bower_components/
+dist/
+target/
+test/temp
+.sass-cache
+.tmp
+app/**/main.css
+.idea/
+.iml
+docdoku-plm-front.iml
+app/webapp.properties.json
